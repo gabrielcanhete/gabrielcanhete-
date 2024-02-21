@@ -55,4 +55,9 @@ Essa tag "<DOCTYPE html>
 
  ### Tabela de proficiecia em linguas 
 
- idioma 
+ idioma | Nivel 
+ :---------: | :-------------:
+ ingles | intermediano
+
+espanhol | basico 
+
