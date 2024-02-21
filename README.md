@@ -58,6 +58,5 @@ Essa tag "<DOCTYPE html>
  idioma | Nivel 
  :---------: | :-------------:
  ingles | intermediano
-
-espanhol | basico 
+ 
 
