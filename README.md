@@ -14,9 +14,13 @@
   *Markdown (linguagem de marcacao)
     
    *HTML (linguagem de programacao)
+   
    *PowerShell (terminal Windows)
+   
    *Bash (terminal Linux)
+   
    *Git (Sistema de Controle de Versionamento)
+   
    *GitHub (Plataforma de hospedagem de codigo-fonte)
      
   #### Para contato: e-mail:eng.biel07canhete@gmail.com
