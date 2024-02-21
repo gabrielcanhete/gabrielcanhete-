@@ -27,5 +27,32 @@
 
      
 
-[https://www.animerankers.com/wp-content/uploads/2020/09/Best-volleyball-anime-1536x864.jpg]
+![volei](https://www.animerankers.com/wp-content/uploads/2020/09/Best-volleyball-anime-1536x864.jpg)
 
+ ### Algumas tags HTML que estou aprendendo:
+ ```html
+ <!DOCTYPE html>
+ <html lang="pt-Br">
+ <head>
+ <meta charset="UFT-8">
+ <title>minha pagina</title>
+ </head>
+ <body>
+ <h1>minha pagina</h1>
+<p>meu paragrafo</p>
+</body>
+ </html>
+```
+Essa tag "<DOCTYPE html>
+
+</body>
+
+
+
+
+
+
+
+ ### Tabela de proficiecia em linguas 
+
+ idioma 
